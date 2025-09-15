@@ -1,4 +1,4 @@
-# 🎬 Advanced SQL queries analysis on a movie database
+# 🎬 Advanced SQL query analysis on a movie database
 
 This project demonstrates advanced SQL queries on a multi-table movie database schema. I used advanced techniques like CTEs, Window Functions, and Joins.
 
@@ -9,12 +9,6 @@ The analysis is based on a relational database with the following tables:
 - actors
 - movie_actor
 - languages
-
-## Method Used
-- Complex SQL Joins & CTEs
-- Window Functions (RANK, ROW_NUMBER, NTILE)
-- Advanced Aggregation & Filtering
-- Data Wrangling & Unit Conversion
 
 ## Questions
 Here are the challenges I tackled 
@@ -50,7 +44,11 @@ For each year and each industry, show the following:
 
 [**Result**](https://github.com/roy-tanmay/Movie-Database-SQL-Analysis/blob/main/ans%205.png)
 
-
+## Techniques Used
+- Complex SQL Joins & CTEs
+- Window Functions (RANK, ROW_NUMBER, NTILE)
+- Advanced Aggregation & Filtering
+- Data Wrangling & Unit Conversion
 
 
 
