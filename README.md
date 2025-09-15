@@ -16,14 +16,18 @@ Here are the challenges I tackled
 **Question: 1.** 
 Identify the top 3 studios which have the highest average Return on Investment (ROI) 
 for their movies. Only consider studios with more than 1 movies.
+
 **Question: 2.**
 Find total number of movies of an actor and the number of movies in each industry.
 (e.g., Bollywood and Hollywood), also Show the actor's name. (consider total movie >= 2) 
+
 **Question: 3.** 
 Categorize movies into four buckets based on their budget ('Low', 'Medium', 'High', 'Very High') 
 Then, for each bucket, calculate the average ROI. Does spending more money guarantee a better return?
+
 **Question: 4.** 
 For each language, show the movie with the highest IMDb rating using a window function
+
 **Question: 5.** 
 For each year and each industry, show the following:
  * The highest grossing movie of the year.
@@ -37,10 +41,15 @@ For each year and each industry, show the following:
 - Data Wrangling & Unit Conversion
 
 **Result**
+
 ! Result for Question 1(./ans 1.png)
+
 ! Result for Question 2(./ans 2.png)
+
 ! Result for Question 3(./ans 3.png)
+
 ! Result for Question 4(./ans 4.png)
+
 ! Result for Question 5(./ans 5.png)
 
 
