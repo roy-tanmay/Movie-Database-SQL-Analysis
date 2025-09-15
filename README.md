@@ -13,7 +13,7 @@ The analysis is based on a relational database with the following tables:
 ## Questions & Solutions
 Here are the challenges I tackled and my approach to solving them.
 
-**Question:**Identify the top 3 studios which have the highest average Return on Investment (ROI) 
+**Question:** Identify the top 3 studios which have the highest average Return on Investment (ROI) 
 	for their movies. Only consider studios with more than 1 movies.
  
 **Approach:**
@@ -22,8 +22,9 @@ Here are the challenges I tackled and my approach to solving them.
 - Calculated ROI as (revenue - budget) / budget.
 - Used aggregation and a HAVING clause to filter studios with >1 movies.
 - Used limit
+
 **Result**
-  !(./ans 1.png)
+!./ans 1.png
 
 
 
