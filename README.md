@@ -49,6 +49,9 @@ For each year and each industry, show the following:
 
 [**Result**](https://github.com/roy-tanmay/Movie-Database-SQL-Analysis/blob/main/ans%205.png)
 
+## Solution
+- Below is a link of each question and solution
+
 ## Techniques Used
 
 - Complex SQL Joins & CTEs
