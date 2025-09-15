@@ -42,7 +42,7 @@ For each year and each industry, show the following:
 
 ## Result
 
-! Result for Question 1(./ans 1.png)
+! [Result for Question 1](https://github.com/roy-tanmay/Movie-Database-SQL-Analysis/blob/main/ans%201.png)
 
 ! Result for Question 2(./ans 2.png)
 
