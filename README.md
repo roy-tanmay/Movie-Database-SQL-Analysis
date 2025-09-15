@@ -24,9 +24,7 @@ Here are the challenges I tackled and my approach to solving them.
 - Used limit
 
 **Result**
-!./ans 1.png
-
-
+! Result for Question 1(./ans 1.png)
 
 
 
