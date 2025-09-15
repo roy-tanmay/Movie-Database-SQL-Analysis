@@ -49,15 +49,19 @@ For each year and each industry, show the following:
 
 [**Result**](https://github.com/roy-tanmay/Movie-Database-SQL-Analysis/blob/main/ans%205.png)
 
-## Solution
-- Below is a link of each question and solution
-
 ## Techniques Used
 
 - Complex SQL Joins & CTEs
 - Window Functions (RANK, ROW_NUMBER, NTILE)
 - Advanced Aggregation & Filtering
 - Data Wrangling & Unit Conversion
+
+## Solution
+- Below is a link of each question and there solution
+
+[Solution](https://github.com/roy-tanmay/Movie-Database-SQL-Analysis/blob/main/Advanced%20SQL%20que%20and%20solution%20.sql)
+
+
 
 
 
